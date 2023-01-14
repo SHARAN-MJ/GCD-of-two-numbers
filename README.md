@@ -33,7 +33,8 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](/2023-01-14%20(5).png)
+![2023-01-14 (5)](https://user-images.githubusercontent.com/119560305/212466082-20b45f48-f7a5-4dd2-bec1-0deeca4ca43e.png)
+)
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
